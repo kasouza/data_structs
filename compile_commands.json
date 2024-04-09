@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/kaso/Projects/personal/data_structs",
+    "file": "/home/kaso/Projects/personal/data_structs/main.c",
+    "output": "/home/kaso/Projects/personal/data_structs/main.o"
+  }
+]
